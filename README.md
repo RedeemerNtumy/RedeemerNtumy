@@ -20,6 +20,7 @@
     <img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&layout=compact&theme=material-palenight" alt="Redeemer's github streak" />
 </div>
 
-
+# Feel free to pass by anytime :heart_eyes:
+## Thank you ! :wink:
 
 
