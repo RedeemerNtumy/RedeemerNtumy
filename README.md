@@ -1,13 +1,25 @@
-### Hi there 👋
+### I feel honoured to find you here :smirk:
 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a Level 300 Computer Science Student at the University of Ghana.
+- 🌱 I’m currently learning dart 
+- 👯 I’m looking to collaborate on dart and python projects
+- 📫 E-mail: ntumyredeemer@gmail.com
+- ⚡ Fun fact: I love Anime :smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<a href="https://github.com/RedeemerNtumy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedeemerNtumy&show_icons=true&include_all_commits=true&theme=material-palenight" alt="My github stats" />
+</a>
+
+<a href="https://github.com/RedeemerNtumy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedeemerNtumy&layout=compact&theme=material-palenight" />
+</a>
+
+<div style="display: flex; flex-direction: column;">
+    <img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&layout=compact&theme=material-palenight" alt="Redeemer's github streak" />
+</div>
+
+
+
+
