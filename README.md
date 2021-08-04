@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love Anime :smile:
 
 
+
 <a href="https://github.com/RedeemerNtumy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedeemerNtumy&show_icons=true&include_all_commits=true&theme=material-palenight" alt="My github stats" />
 </a>
