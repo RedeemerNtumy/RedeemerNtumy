@@ -20,10 +20,9 @@
 </a>
 
 <div style="display: flex; flex-direction: column;">
-<img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&theme=material-palenight" alt="Redeemer's github streak" />
+<img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&theme=material-palenight&fire=DD2727&ring=DD2727" alt="Redeemer's github streak" />
 </div>
 
 # Feel free to pass by anytime :heart_eyes:
 ## Thank you ! :wink:
-
 
