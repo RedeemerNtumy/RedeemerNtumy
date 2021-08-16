@@ -1,6 +1,6 @@
 ### I feel honoured to find you here :smirk:
 
-![](https://komarev.com/ghpvc/?username=RedeemerNtumy&style=plastic&label=VIEWS+ON+PROFILE+SO+FAR)
+![](https://komarev.com/ghpvc/?username=RedeemerNtumy&style=plastic&label=PROFILE+VIEWS)
 
 
 - 🔭 I’m currently a Level 300 Computer Science Student at the University of Ghana.
