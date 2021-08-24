@@ -8,6 +8,7 @@
 - 📫 E-mail: ntumyredeemer@gmail.com
 - ⚡ Fun fact: I love Anime :smile:
 
+![alt text](anime.jpg)
 
  Three simple words about me
  ###### I
