@@ -11,7 +11,7 @@
 ![alt text](anime.jpg)
 
 
-# FREINDS LIKE NO OTHER
+# FRIENDS LIKE NO OTHER
 
 <div style="margin-top:10px">
 
