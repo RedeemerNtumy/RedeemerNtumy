@@ -4,12 +4,7 @@
 
 ![alt text](name.png)
 
-- 🤵 I’m a Level 300 Computer Science Student at the University of Ghana.
-- 🌱 I’m currently learning dart 
-- 👯 I’m looking to collaborate on dart and python projects
-- 📫 E-mail: ntumyredeemer@gmail.com
-- ⚡ Fun fact: I love Anime :smile:
-
+![alt text](things.png)
 
 
 
