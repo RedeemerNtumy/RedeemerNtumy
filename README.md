@@ -2,13 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=RedeemerNtumy&style=plastic&label=PROFILE+VIEWS)
 
+![alt text](name.png)
+
 - 🤵 I’m a Level 300 Computer Science Student at the University of Ghana.
 - 🌱 I’m currently learning dart 
 - 👯 I’m looking to collaborate on dart and python projects
 - 📫 E-mail: ntumyredeemer@gmail.com
 - ⚡ Fun fact: I love Anime :smile:
 
-![alt text](anime.jpg)
+
 
 
 # FRIENDS LIKE NO OTHER
@@ -48,6 +50,8 @@
 <div style="display: flex; flex-direction: column;">
 <img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&theme=material-palenight&fire=DD2727&ring=DD2727" alt="Redeemer's github streak" />
 </div>
+ 
+![alt text](anime.jpg)
 
 # Feel free to pass by anytime :heart_eyes:
 ## Thank you ! :wink:
