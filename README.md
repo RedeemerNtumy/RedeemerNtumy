@@ -33,17 +33,16 @@
  # LEARNING :smile:
 
 
-
 <a href="https://github.com/RedeemerNtumy/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedeemerNtumy&show_icons=true&include_all_commits=true&theme=material-palenight" alt="My github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedeemerNtumy&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" />
 </a>
 
 <a href="https://github.com/RedeemerNtumy/github-readme-stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedeemerNtumy&theme=material-palenight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedeemerNtumy&theme=radical" />
 </a>
 
 <div style="display: flex; flex-direction: column;">
-<img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&theme=material-palenight&fire=DD2727&ring=DD2727" alt="Redeemer's github streak" />
+<img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RedeemerNtumy&theme=radical&fire=DD2727&ring=DD2727" alt="Redeemer's github streak" />
 </div>
  
 ![alt text](anime.jpg)
