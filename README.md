@@ -23,7 +23,9 @@
  
 <img align="left" alt="Ubuntu" width="26px" src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" />
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
- <img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
+<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
+<img align="left" alt="Google" width="35px" height="30px" src="https://s3.amazonaws.com/media.expresswriters.com/wp-content/uploads/2015/09/03015924/google-new-logo.jpg" />
+
 
 <br>
 
