@@ -27,13 +27,6 @@
 <img align="left" alt="Google" width="35px" height="30px" src="https://s3.amazonaws.com/media.expresswriters.com/wp-content/uploads/2015/09/03015924/google-new-logo.jpg" />
 
 
-<br>
-
- # THREE WORDS ABOUT ME
- ###### I
- #### LOVE 
- # LEARNING :smile:
-
 
 <a href="https://github.com/RedeemerNtumy/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RedeemerNtumy&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" />
