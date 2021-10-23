@@ -24,7 +24,7 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" />
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 <img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
-<img align="left" alt="Google" width="35px" height="30px" src="https://s3.amazonaws.com/media.expresswriters.com/wp-content/uploads/2015/09/03015924/google-new-logo.jpg" />
+<img align="left" alt="Google" width="35px" height="30px" src="https://img2.cgtrader.com/items/2590278/0572f24550/google-logo-v1-002-3d-model-low-poly-max-obj-3ds-fbx-ma-stl.jpg" />
 <img align="left" alt="Firebase" width="26px" height="26px" src="https://pbs.twimg.com/profile_images/733010550670557184/aMmM_m3g.jpg" />
 <img align="left" alt="Stack Overflow" width="30px" height="30px" src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_1904,c_limit/so-logo-s.jpg" />
  
