@@ -5,9 +5,8 @@
 ![alt text](name.png)
 
 #
-
-![alt text](text-1656168856261.png)
 #
+
 ![alt text](text-1656168910725.png)
 
 #
