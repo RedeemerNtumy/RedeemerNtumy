@@ -29,7 +29,9 @@ Been a while since I wrote some good code. Working on my Product Management skil
 <img align="left" alt="Stack Overflow" width="30px" height="30px" src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_1904,c_limit/so-logo-s.jpg" /></div>
 
 
-## 🏆 GitHub Trophies
+##            
+# 🏆 Github Trophies:
+         
 ![](https://github-profile-trophy.vercel.app/?username=RedeemerNtumy&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats:
