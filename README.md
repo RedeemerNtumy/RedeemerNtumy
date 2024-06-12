@@ -37,9 +37,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://memes.random.api.railway.app/" width="512px"/>
-
 ---
 # Feel free to pass by anytime! 😊
 ### Thank you! 😁
