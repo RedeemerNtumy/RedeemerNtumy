@@ -7,7 +7,7 @@
 -->
 
 # 💫 About Me:
-🚀 I'm Redeemer. Make sure your product is good before it meets my eyes 👀
+🚀 I'm Redeemer. Let's build together 👀
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redeemer-ntumy/) 
