@@ -13,15 +13,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redeemer-ntumy/) 
 
 # 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) 
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) 
+![MapReduce](https://img.shields.io/badge/MapReduce-FF6F00?style=flat-square&logo=apache&logoColor=white)
 
 
 # 💻 Tools & Platforms:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
 # 🏆 GitHub Trophies:
